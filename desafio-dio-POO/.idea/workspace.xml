@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88d39ebf-9191-4c25-a0f9-65f7ec8cb903" name="Changes" comment="update the gitignore">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/edu/dio/desafio/dominio/BootCamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/edu/dio/desafio/dominio/Conteudo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/edu/dio/desafio/dominio/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/edu/dio/desafio/dominio/Dev.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/edu/dio/desafio/dominio/Mentoria.java" afterDir="false" />
+    <list default="true" id="88d39ebf-9191-4c25-a0f9-65f7ec8cb903" name="Changes" comment="Código do desafio na sua versão final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715882316116</updated>
-      <workItem from="1715882317143" duration="6372000" />
+      <workItem from="1715882317143" duration="7965000" />
     </task>
     <task id="LOCAL-00001" summary="update the gitignore">
       <option name="closed" value="true" />
@@ -100,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715884130772</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Código do desafio na sua versão final">
+      <option name="closed" value="true" />
+      <created>1715889126469</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715889126469</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update the gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="update the gitignore" />
+    <MESSAGE value="Código do desafio na sua versão final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Código do desafio na sua versão final" />
   </component>
 </project>
